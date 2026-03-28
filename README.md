@@ -11,7 +11,7 @@
 - Linux & Windows Security
 - SIEM Basics
 
-## 📁 Featured Projects\
+## 📁 Featured Projects
 - 🌐 Ghana Police Network Security Design
 - 🔍 Python Log Analyzer
 - 🔎 Python Port Scanner
